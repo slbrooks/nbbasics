@@ -7,3 +7,7 @@ Intro to notebook based computing for the aap course. Includes
 * Netflix and notebooks
 * the future of notebook computing?
 
+TODO
+
+* Clean up editing
+* Make sure all screencasts done, uploaded and linked.
