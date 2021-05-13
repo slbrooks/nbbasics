@@ -10,4 +10,4 @@ Intro to notebook based computing for the aap course. Includes
 TODO
 
 * Clean up editing
-* Make sure all screencasts done, uploaded and linked.
+* Make sure all screencasts done, uploaded and linked.Jupyter notebooks are terrific
